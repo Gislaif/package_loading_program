@@ -1,0 +1,4 @@
+Balance: 300.0$
+Purchase: 1 clothes(s) for 100.0$
+Product: clothes$
+Purchase: 2 banana(s) for 40.0$
