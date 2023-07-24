@@ -1,12 +1,9 @@
 import json
+import sys
 
 BALANCE_FILE = "balance.txt"
 INVENTORY_FILE = "inventory.txt"
 HISTORY_FILE = "history.txt"
-
-# def load_data():
-#    with open(INVENTORY_FILE, "r") as inventory_file:
-#    inventory_file.readline()
 
 account_balance = 0
 warehouse = {}
